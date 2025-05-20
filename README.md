@@ -57,6 +57,6 @@ Inclui links para:
 
 ## 🧑‍💻 Autor
 
-Feito com 💜 por **Toddy.dev**
+Feito com 💜 por **Nicolas Kevin**
 [LinkedIn](https://www.linkedin.com/in/nicolas-kevin/) | [Instagram](https://instagram.com/nicolas.toddy)
 
