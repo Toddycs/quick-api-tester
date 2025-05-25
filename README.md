@@ -12,7 +12,6 @@ Uma ferramenta web responsiva e moderna para testar APIs, com suporte a históri
 * Inserção de headers customizados
 * Corpo da requisição personalizável (JSON, texto, etc.)
 * Histórico de requisições com navegação rápida
-* Visual moderno com suporte a tema **claro** e **escuro**
 * Botão de copiar a resposta com um clique
 * Footer fixo com links para redes sociais
 
